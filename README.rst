@@ -1,19 +1,19 @@
 EffectorFam
 ===========
 
-EffectorFAM is a database of Hidden Markov Models (HMMs) designed specifically 
-for identifying and predicting effector proteins that are translocated via the 
+EffectorFAM is a database of Hidden Markov Models (HMMs) designed specifically
+for identifying and predicting effector proteins that are translocated via the
 Type III Secretion System.
 
 This web based tool allows users to submit protein or nucleotide sequences in
- FASTA format, which is then compared to the HMMs to generate a list of 
+FASTA format, which is then compared to the HMMs to generate a list of 
 potential effectors.
 
-If given nucleotide sequences EffectorFam will translate all ORFs longer then 
+If given nucleotide sequences EffectorFam will translate all ORFs longer then
 150 bp across all six reading frames. Note this may take a minute to calculate.
 
-Written by "Nathan Bachmann" mailto:nathan_bachmann@hotmail.com under the supervision 
-of "Dr Scott Beatson" mailto:s.beatson@uq.edu.au
+Written by Nathan Bachmann (nathan_bachmann@hotmail.com) under the supervision       
+of Dr Scott Beatson (s.beatson@uq.edu.au)
 
 
 Basic install instructions (on a LAMP Ubuntu 12.04.2 LTS box)::
@@ -35,6 +35,4 @@ Basic install instructions (on a LAMP Ubuntu 12.04.2 LTS box)::
 Offical live site
 -----------------
 
-Please "see" http://effectorfam-scmb.biosci.uq.edu.au
-
-
+Please see: http://effectorfam-scmb.biosci.uq.edu.au
