@@ -1,6 +1,7 @@
 #!/usr/bin/perl -wT
 #Written by Nathan Bachmann (nathan_bachmann@hotmail.com) under the supervision of Dr Scott Beatson
 #(s.beatson@uq.edu.au) on the 13/02/12
+# https://github.com/NathanBachmann
 use strict;
 use CGI;
 use CGI::Carp qw ( fatalsToBrowser );
