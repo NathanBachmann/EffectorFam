@@ -53,7 +53,7 @@ my $anno;
 
 #identify the upload directory
 my $upload_dir = "/var/www/EffectorFam";
-my $img_location = "http://smms-steel.biosci.uq.edu.au/EffectorFam/";
+my $img_location = "http://effectorfam-scmb.biosci.uq.edu.au";
 
 #read the form Variables
 my $query = new CGI;

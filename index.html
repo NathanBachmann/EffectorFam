@@ -1,16 +1,3 @@
-#!/usr/bin/perl -wT
-#Written by Nathan Bachmann (nathan_bachmann@hotmail.com) under the supervision of Dr Scott Beatson
-#(s.beatson@uq.edu.au) on the 13/02/12
-# https://github.com/NathanBachmann
-use strict;
-use CGI;
-use CGI::Carp qw ( fatalsToBrowser );
-
-my $img_location = "http://smms-steel.biosci.uq.edu.au/EffectorFam";
-
-print "Content-type: text/html\n\n";
-
-print <<Endofhtml
 <html>
 <head>
 <title>EffectorFAM</title>
@@ -19,7 +6,7 @@ print <<Endofhtml
  bgcolor="black" id="shell" height="250" width="800">
 <tr height="50"><td colspan="2" bgcolor="white">
 <table title="Banner" id="banner" border="0">
-<tr><td><img src="$img_location/img/banner_v2.gif" height="205" width="1000"></td></tr>
+<tr><td><img src="/img/banner_v2.gif" height="205" width="1000"></td></tr>
 </table>
 </td></tr>
 <tr height="200"><td bgcolor="white" valign="top">
@@ -28,11 +15,11 @@ print <<Endofhtml
 <tr><td>Beta version 0.1</tr></td>
 <tr><td></tr></td>
 <tr><td><b>Example Data:</b></tr></td>
-<tr><td><a href=\"$img_location/example_data/exampledata.faa\">Sequences</a></tr></td>
+<tr><td><a href=/example_data/exampledata.faa>Sequences</a></tr></td>
 </table>
 </td><td bgcolor="white">
 <table title="Content" id="content" border="0">
-<tr><td><form action="effector_upload.cgi" method="post" 
+<tr><td><form action="cgi-bin/effector_upload.cgi" method="post" 
 enctype="multipart/form-data">
 EffectorFAM is a database of Hidden Markov Models (HMMs) designed specifically for identifying and predicting effector proteins that are translocated via the Type III Secretion System. 
 <p>This portal allows users to submit protein or nucleotide sequences in FASTA format, which is then compared to the HMMs to generate a list of potential effectors.</p>
@@ -43,11 +30,9 @@ EffectorFAM is a database of Hidden Markov Models (HMMs) designed specifically f
 <p> Upload a file in fasta format: <input name="file" type="file"></p>
 <p><input name="Submit" value="Find" type="submit"><input type="reset" value="Clear"></p>
 <br>
-<p><b>For support and inquiries:</b> nathan.bachmann\@uqconnect.edu.au</p>
+<p><b>For support and inquiries:</b> nathan.bachmann@uqconnect.edu.au</p>
 </form></td></tr>
 </table>
 </td></tr></table>
 </br>
 </html>
-
-Endofhtml
