@@ -32,7 +32,7 @@ Basic install instructions (on a LAMP Ubuntu 12.04.2 LTS box)::
     $ sudo service apache2 restart
     $ Browse over to: http://effectorfam-scmb.biosci.uq.edu.au/
 
-Offical live site
------------------
+Official live site
+------------------
 
 Please see: http://effectorfam-scmb.biosci.uq.edu.au
