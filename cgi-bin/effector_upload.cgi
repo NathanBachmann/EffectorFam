@@ -1,0 +1,1 @@
+../effector_upload.cgi
