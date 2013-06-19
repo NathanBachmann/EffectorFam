@@ -1,0 +1,3 @@
+# ignore all robot/web indexing agents
+User-agent: *
+Disallow: /
