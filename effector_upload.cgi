@@ -7,6 +7,9 @@ use CGI::Carp qw ( fatalsToBrowser );
 use File::Basename;
 use effectorfamperlmodule;
 
+$CGI::POST_MAX = 1024 * 10000; #limits uplaod to 10 Mb
+use constant MAX_DIR_SIZE => 100 * 1_048_576; #limits total directory size to 100 Mb
+
 #variable list
 my $model;
 my $result;
@@ -77,6 +80,39 @@ foreach (1..10)
 #safety limits
 my $safe_filename_characters = "a-zA-Z0-9_.-"; #ensure specific characters are used in the name
 
+#prints the table headers in the browser
+print "Content-type: text/html\n\n";
+
+print <<Endofheader;
+<html>
+<head>
+	<title>Effectorfam Results</title>
+</head>
+
+<body>
+<img src="$img_location/img/banner_res.gif" height="205" width="1000">
+</div>
+
+Endofheader
+
+#checks uplaod file size
+if (defined($filename))
+{
+	print "<p>Your upload file is $filename</p>";
+}
+else
+{
+	print "<p>Error 02: Upload file may be too big (Max uplaod is 10 Mb)</p>";
+	exit;
+}
+
+#checks to male the sure the directory is under 100 Mb
+if (dir_size($upload_dir) + $ENV{CONTENT_LENGTH} > MAX_DIR_SIZE)
+{
+	print "<p>Upload directory is full</p>";
+	exit;
+}	
+
 #make the filename safe by removing the pth using the filepaser routine from Basename
 my ($name, $path, $extension) = fileparse ($filename, '\..*');
 $filename = $name . $extension;
@@ -115,21 +151,6 @@ else
 	die "filename contains invalid characters\n";
 }
 
-
-#prints the table headers in the browser
-print "Content-type: text/html\n\n";
-
-print <<Endofheader;
-<html>
-<head>
-	<title>Effectorfam Results</title>
-</head>
-
-<body>
-<img src="$img_location/img/banner_res.gif" height="205" width="1000">
-</div>
-
-Endofheader
 
 #check to see if the input file is nucleic acid
 open (IN2, "$upload_dir/upload/$filename") or die "$!";

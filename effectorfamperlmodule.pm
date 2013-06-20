@@ -283,4 +283,20 @@ sub frames2fasta_revcom
 	return $orf;
 }
 
+#dir_size
+#
+#Calculates current size of the directory
+
+sub dir_size 
+{
+	my $dir = shift;
+	my $dir_size = 0;
+	opendir (DIR, $dir) or die "Unable to open $dir\n";
+	foreach (readdir DIR)
+	{
+		$dir_size += -s "$dir/$_";
+	}
+	return $dir_size;
+}
+
 1;
