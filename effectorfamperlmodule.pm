@@ -224,8 +224,8 @@ sub frames2fasta
 		$first = $last + 1 + $start;
 		$last = $last + $base;
 		
-		#prints the orf if they are larger than 50 amino acids
-		if ($size > '50')
+		#prints the orf if they are larger than 150 amino acids
+		if ($size > '150')
 		{
 			$field = ">RF_$frame\_ORF_$count $first..$last\n$element\n";
 			$orf .= $field;
@@ -269,8 +269,8 @@ sub frames2fasta_revcom
 		}
 
 		
-		#prints the ORFs if they are larger than 50 amino acids
-		if ($size > '50')
+		#prints the ORFs if they are larger than 150 amino acids
+		if ($size > '150')
 		{
 			$field = ">RF_$frame\_ORF_$count $high..$low\n$element\n";
 			$orf .= $field;

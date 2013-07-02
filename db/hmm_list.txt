@@ -1,186 +1,186 @@
-Efam00001	GogB; Type III effector protein	GogB like effector protein found in Salmonella
-Efam00002	OspD2; Type III effector protein	OspD2 like effector protein found in Shigella flexneri
-Efam00003	OspD1; Type III effector protein	OspD1 like effector protein found in Shigella flexneri
-Efam00004	OspD3; Type III effector protein	OspD3 like effector protein found in Shigella flexneri. Called EspL2 in EPEC
-Efam00005	OspE; Type III effector protein	OspE like effector protein found in Shigella flexneri
-Efam00006	SopA; Type III effector protein	SopA like effector protein found in Salmonella. Homologs in EPEC are called NleL. Functions as E3 ligase to regulate host inflammatory response
-Efam00007	PopA; Type III effector protein	PopA like effector found in Ralstonia solanacearum
-Efam00008	Rip15; Type III effector protein	Ralstonia solanacerum Rip (Ralstonia protein injected into plant cell) effector
-Efam00009	Rip1; Type III effector protein	Ralstonia solanacerum Rip (Ralstonia protein injected into plant cell) effector
-Efam00010	Rip55; Type III effector protein	Ralstonia solanacerum Rip (Ralstonia protein injected into plant cell) effector
-Efam00011	RipB; Type III effector protein	Ralstonia solanacerum Rip (Ralstonia protein injected into plant cell) effector
-Efam00012	Rip30; Type III effector protein	Ralstonia solanacerum Rip (Ralstonia protein injected into plant cell) effector
-Efam00013	Rip68; Type III effector protein	Ralstonia solanacerum Rip (Ralstonia protein injected into plant cell) effector
-Efam00014	PopB; Type III effector protein	PopB like effector found in Ralstonia solanacerum
-Efam00015	EspJ; Type III effector protein	EspJ like effector protein found in Citrobacter rodentium. It has an antiphagocytic activity
-Efam00016	HopR1; Type III effector protein	HopR1 like effector protein found in Pseudomonas syringae
-Efam00017	HopO1; Type III effector protein	HopO1 like effector protein found in Pseudomonas syringae
-Efam00018	Bap22; Type III effector protein	Bsp22 like secreted protein found in Bordetella bronchiseptica
-Efam00019	PthA; Type III effector protein	PthA like effector protein found in Ralstonia solanacerum
-Efam00020	Rip3: Type III effector protein	Based on an effector protein found in Ralstonia solanacerum
-Efam00021	Tir; Type III effector protein	Translocated intmin receptor (Tir) found in E. coli. Triggers actin pedestral formation
-Efam00022	AvrPphD; Type III effector protein	AvrPphD like effector protein found in Pseudomonase syringae
-Efam00023	AvrPphE; Type III effector protein	AvrPphE effector family found Ralstonia solanacearum
-Efam00024	HopAB1; Type III effector protein	AvrPtoB/HopAB1 effector family
-Efam00025	AvrRpt2; Type III effector protein	AvrRpt2 like effector protein found in Pseudomonas syringae
-Efam00026	BopA; Type III effector protein	BopA like effector protein found in Burkholderia pseudomallei; assists with evading autophagy
-Efam00027	Cif; Type III effector protein	Cell cycle inhibiting factor (Cif); an effector found in EPEC and EHEC strains
-Efam00028	Rip4; Type III effector protein	Ralstonia solanacerum Rip (Ralstonia protein injected into plant cell) effector
-Efam00029	EspH; Type III effector protein	EspH like effector protein. LEE assoicated effector found in E. coli
-Efam00030	EspO; Type III effector protein	EspO like effector protein found in EPEC and Citrobacter
-Efam00031	EspT; Type III effector protein	EspT like effector protein found in EPEC and Citrobacter. Triggers actin modulation and induces membrane ruffling
-Efam00032	EspV; Type III effector protein	EspV like effector protein found in EPEC. Induces morphological changes in mammalian cells
-Efam00033	EspX; Type III effector protein	EspX like effector protein found in EPEC
-Efam00034	HapG; Type III effector protein	HapG like effector protein found in Xanthomonas species
-Efam00035	HopAH; Type III effector protein	HopAH like effector protein found in Pesudomonas syringae
-Efam00036	HopAI; Type III effector protein	HopAI like effector protein found in Pesudomonas syringae. A Phosphothreonine lyase
-Efam00037	HopB1; Type III effector protein	HopB1 like effector protein found in Pseudomonas syringae
-Efam00038	HopI1; Type III effector protein	HopI1 like protein found Pseudomonas syringae
-Efam00039	HopAA1-2; Type III effector protein	HopAA1-2 like effector protein found in Pseudomonas syringae
-Efam00040	IcsB; Type III effector protein	IcsB like virulence protein found in Shigella flexneri
-Efam00041	Gala6; Type III effector protein	Leucine-rich repeat protein found in Ralstonia solanacearum
-Efam00042	Map; Type III effector protein	Map like effector protein found in EPEC and Citrobacter. It manipulates the actin cytroskeleton
-Efam00043	MxiL; Type III effector protein	MxiL like protein found in Shigella flexneri
-Efam00044	NleA; Type III effector protein	Non-LEE-encoding A (NleA) effector found in EPEC and Citrobacter rodentium
-Efam00045	NleC; Type III effector protein	Non-LEE-encoding C (NleC) effector found in EPEC and Citrobacter rodentium
-Efam00046	NleE; Type III effector protein	Non-LEE-encoding E (NleE) effector found in EPEC and Citrobacter rodentium
-Efam00047	NleH; Type III effector protein	Non-LEE-encoding H (NleH) effector found in EPEC and Citrobacter rodentium
-Efam00048	Nop; Type III effector protein	NopP like effector protein found in Sinorhizobium fredii
-Efam00049	PopC; Type III effector protein	PopC like effector protein found in Xanthomonas oryzae
-Efam00050	HopAV1; Type III effector protein	Ralstonia solanacerum Rip (Ralstonia protein injected into plant cell) effector
-Efam00051	Rip57; Type III effector protein	Ralstonia solanacerum Rip (Ralstonia protein injected into plant cell) effector
-Efam00052	Rip51; Type III effector protein	Ralstonia solanacerum Rip (Ralstonia protein injected into plant cell) effector
-Efam00053	Rip23; Type III effector protein	Ralstonia solanacerum Rip (Ralstonia protein injected into plant cell) effector
-Efam00054	SseI; Type III effector protein	SseI like effector protein found in Salmonella
-Efam00055	SseJ; Type III effector protein	SseJ like effector protein found in Salmonella
-Efam00056	YopQ; Type III effector protein	YopQ like effector protein found in Yersinia
-Efam00057	YopT; Type III effector protein	YopT like effector protein found in Yersinia pestis. Cleaves host cell Rho GTPases from the membrane, thereby disrupting the actin cytroskeleton.
-Efam00058	SteA; Type III effector protein	SteA like effector protein found Salmonella
-Efam00059	HpaX; Type III effector protein	Based on an effector protein (hpaX) found in Ralstonia solanacerum
-Efam00060	Rip58	Ralstonia solanacerum Rip (Ralstonia protein injected into plant cell) effector
-Efam00061	HopAK1; Type III effector protein	HopAK1 like protein found in Pseudomonas syringae
-Efam00062	HopPtoI; Type III effector protein	HopPtoI like effector protein
-Efam00063	Rip6; Type III effector protein	Based on an effector protein found in Ralstonia solanacerum
-Efam00064	NopA; Type III effector protein	NopA like effector protein found in Rhizobium species
-Efam00065	RimL; Type III effector protein	Based on an effector protein found in Burkholderia pseudomallei
-Efam00066	YopO; Type III effector protein	YopO like effector protein fround in Yersinia enterocolitica
-Efam00067	AvrPpiA; Type III effector protein	AvrPpiA like effector protein found in Pesudomonas syringae. Has a phosphorylation activity
-Efam00068	EspN; Type III effector protein	EspN like effector protein found in EPEC and Citrobacter
-Efam00069	OspB; Type III effector protein	EspS/OspB like effector protein found in EPEC and Citrobacter
-Efam00070	EspY; Type III effector protein	EspY like effector protein found in EPEC
-Efam00071	HopE1; Type III effector protein	HopE1 like effector protein found in Pseudomonas syringae
-Efam00072	HopPmaA; Type III effector protein	HopPmaA like effector protein found in Pseudomonas syringae
-Efam00073	HopY1; Type III effector protein	HopY1 like effector protein found in Pseudomonas syringae
-Efam00074	NleD; Type III effector protein	Non-LEE-encoding D (NleD) effector found in EPEC and Citrobacter rodentium
-Efam00075	NleF; Type III effector protein	Non-LEE-encoding F (NleF) effector found in EPEC and Citrobacter rodentium
-Efam00076	PipB; Type III effector protein	PipB/PipB2 like effector protein found in Salmonella. Recruitment of Kinesin-1 to the membrane of Salmonella-containing vacuoles
-Efam00077	Rip16;	Based on an effector protein found in Ralstonia solanacerum
-Efam00078	Rip67	Based on an effector protein found in Ralstonia solanacerum
-Efam00079	SrfA; Putative type III effector protein	SrfA like virulence protein found in Erwinia carotovora
-Efam00080	SseL; Type III effector protein	SseL like effector protein found in Salmonella. This effector is vital for Salmonella pathogenesis 
-Efam00081	Y4yB; Type III effector protein	Based on the y4yB family of effectors found in Sinorhizobium fredii
-Efam00082	SsaB; Type III effector protein	ssaB like effector protein found in Salmonella
-Efam00083	Rip5; Type III effector protein	AvrA like effector protein fround in Ralstonia solanacearum
-Efam00084	HopGI; Type III effector protein	HopGI family of effectors found in Ralstonia species, Xanthomonas species, Pseudomonas syringae
-Efam00085	EspF; Type III effector protein	EspF like effector protein found in EPEC and Citrobacter. A multifunctional effector that can induce host cell apoptosis
-Efam00086	HopAN1; Type III effector protein	HopAN1 like effector protein found in Pseudomonas syringae
-Efam00087		Based on a protein from Pseudomonas syringae
-Efam00088	HopAF1; Type III effector protein	HopAF1 like effector protein found in Pseudomonas syringae
-Efam00089	HopX1; Type III effector protein	HopX1 like effector protein found in Pseudomonas syringae
-Efam00090	NleB; Type III effector protein	Non-LEE-encoding B (NleB) effector found in EPEC and Citrobacter rodentium. Members of this family are found in Salmonella
-Efam00091	SifA/B; Type III effector protein	sifA/B like effector protein found in Salmonella. Required for maintenance of the vacuolar membrane that surounds replicating bacteria
-Efam00092	IpaH/SspH2/YopM; Type III effector protein	E3 Ubiquitin ligase mimics. Known has SspH2 in Salmonella and YopM in Yersinia.
-Efam00093	SptP; Type III effector protein	sptP like effector protein found in Salmonella. Inhibits MAP kinase activation
-Efam00094	SseE; Type III effector protein	SseE like effector protein found in Salmonella
-Efam00095	OspC1; Type III effector protein	OspC1 like effector protein found in Shigella flexneri
-Efam00096	OspC2; Type III effector protein	OspC2 like effector protein found in Shigella flexneri
-Efam00097	YopH; Type III effector protein	YopH like effector protein fround in Yersinia species
-Efam00098	EspM; Type III effector protein	EspM like effector protein found in EPEC and Citrobacter.
-Efam00099	HopAG1; Type III effector protein	HopAG1 like effector protein found in Pseudomonas syringae
-Efam00100	HopAM; Type III effector protein	HopAM like effector protein found in Pseudomonas syringae
-Efam00101	HopA1; Type III effector protein	HopA1 like effector protein found in Pseudomonas syringae
-Efam00102	HopT1-1; Type III effector protein	HopT1-1 like effector protein found in Pseudomonas syringae
-Efam00103	HopT1-2; Type III effector protein	HopT1-2 like effector protein found in Pseudomonas syringae
-Efam00104	PopP1; Type III effector protein	Based on an effector protein found in Ralstonia solanacerum
-Efam00105	NolX1; Type III effector protein	NolX1 like protein found in Sinorhizobium fredii
-Efam00106	NolX2; Type III effector protein	NolX2 like protein found in Bradyrhizobium species
-Efam00107	SopD; Type III effector protein	SopD like effector protein found in Salmonella. Promote survival in marcophages 
-Efam00108	SopD2; Type III effector protein	SopD2 like effector protein found in Salmonella. Promotes survival in marcophages
-Efam00109	HrpN1; Type III effector protein	HrpN like effector protein fround in Erwinia amlovora
-Efam00110	HrpN2; Type III effector protein	HrpN like homolog found in Dickeya dadantii
-Efam00111	SseF; Type III effector protein	SseF like protein found in Salmonella. Induces filament formation
-Efam00112	SseG; Type III effector protein	SseG like effector protein found in Salmonella.
-Efam00113	ExoU1; Type III effector protein	ExoU protein found in Pseudomonas aeruginosa
-Efam00114	ExoU2; Type III effector protein	ExoU2 homolog effector protein found in Pseudomonas syringae
-Efam00115	HrpZ; Type III effector protein	HrpZ like effector protein found in Pseudomonas syringae
-Efam00116	AexT; Type III effector protein	aexT like effector protein found in Aeromonans salmonicida
-Efam00117	ExoT; Type III effector protein	ExoT like effector protein found in Pseudomonas aeruginosa
-Efam00118	HopM1; Type III effector protein	HopM1 like effector protein found in Pseudomonas syringae
-Efam00119	SteB; Type III effector protein	SteB like effector protein found in Salmonella
-Efam00120	HopAA; Type III effector protein	HopAA like effector protein found in Pseudomonas syringae
-Efam00121	NopL; Type III effector protein	NopL like protein found in Sinorhizobium fredii
-Efam00122	AvrRps4; Type III effector protein	AvrRps4 like effector protein found in Pseudomonas syringae
-Efam00123	HopI1; Type III effector protein	HopI1 like effector protein found in Pseudomonas syringae
-Efam00124	Rip12; Type III effector protein	Ralstonia solanacerum Rip (Ralstonia protein injected into plant cell) effector
-Efam00125	SseK; Type III effector protein	SseK effector protein found in Salmonella. Similar to NleB protein from E.coli
-Efam00126	Type III effector protein	Pfam PF05394; consists of avirulence proteins from Pseudomonas syringae and Xanthomonas campestris
-Efam00127	Type III effector protein	Pfam PF11725; family of effectors secreted by plant pathogens such as Pseudomonase syringae 
-Efam00128	AvrPto; Type III effector protein	Pfam PF11592; family of proteins represents the effector AvrPto from Pseudomonas syringae. Interacts with host Pto kinase
-Efam00129	CNF; Type III effector protein	Pfam PF05785; family of cytotoxic necotising factor 
-Efam00130	NleG; Type III effector protein	Pfam PF06416; domain of unknown function found in non-LEE-encoding effector (NleG) found in EHEC and EPEC 
-Efam00131	EspA; Type III effector protein	Pfam PF03433; EspA-like effector protein. Is essential for attaching and effacing lesion formation
-Efam00132	EspB; Type III effector protein	Pfam PF05802; EspB like effector protein found in EPEC and Citrobacter. Pore forming protein
-Efam00133	EspG; Type III effector protein	Pfam PF06872; EspG like effector protein from Citrobacter rodentium and EPEC
-Efam00134	HopJ; Type III effector protein	Pfam PF08888; HopJ effector protein found in Pseudomonas syringae
-Efam00135	HrpB4; Type III effector protein	Pfam PF09502; HrpB4 like effector protein found in Xanthomonas, Burkholderia and Ralstonia species
-Efam00136	SopB; Type III effector protein	Pfam PF05925; family of IpgD-like effector found in Shigella flexneri; known as SopB in Salmonella
-Efam00137	SrfC; Putative type III effector protein	Pfam PF10139; Unknown effector protein family
-Efam00138	Type III effector protein	Pfam PF03536
-Efam00139	YopD; Type III effector protein	Pfam PF05844; YopD like effector protein found in Yersinia species
-Efam00140	YopE; Type III effector protein	Pfam PF09020; YopE like effector protein
-Efam00141	YopJ; Type III effector protein	Pfam PF03421; YopJ like effector found in Yersinia;
-Efam00142	SipA; Type III effector protein	Pfam PF09052; SipA-like effector found in Salmonella. Involved host cytoskeletal rearrangements by actin binding/stabilising activity
-Efam00143	SrfB; Putative type III effector protein	FIGfam FIG004700; SrfB like protein
-Efam00144	Type III effector protein	FIGfam FIG010722; Based on effector protein found in Burkholderia pseudomallei
-Efam00145	SepC; Type III effector protein	FIGfam FIG013486; SepC like effector from Burkholderia pseudomallei
-Efam00146	BapA; Type III effector protein	FIGfam FIG015765; BapA like effector from Burkholderia pseudomellei
-Efam00147	Type III effector protein	FIGfam FIG024165; Based on effector protein found in Burkholderia pseudomallei
-Efam00148	SteA; Type III effector protein	FIGfam FIG028317; SteA like effector fround in Salmonella
-Efam00149	SteC; Type III effector protein	FIGfam FIG030627; SteC like effector fround in Salmonella
-Efam00150	Type III effector protein	FIGfam FIG033101; Avirulence effector protein found in Xanthomonas species
-Efam00151	EspS; Type III effector protein	FIGfam FIG034210; EspS like effector found in Citrobactor rodentium
-Efam00152	IncB; Type III effector protein	FIGfam FIG040233; IncB like protein fround in Chlamydophila pneumoniae
-Efam00153	IncA; Type III effector protein	FIGfam FIG043304; IncA
-Efam00154	IncC; Type III effector protein	fIGfam FIG048320; IncC
-Efam00155	HrpW; Type III effector protein	FIGfam FIG052026; HrpW like effector found in Erwinia species
-Efam00156	Type III effector protein	FIGfam FIG065772; T3SS effector protein D found in Edwardsiella and Bordetella
-Efam00157	SepZ; Type III effector protein	FIGfam FIG073160; SepZ protein
-Efam00158	Type III effector protein	FIGfam FIG085646; family of avirulence effectors found in Xanthomonas
-Efam00159	AvrA (P. syringae); Type III effector protein	FIGfam FIG101139; AvrA like effector from Pseudomonas syringae
-Efam00160	IpaC/SipC; Type III effector protein	TIGRfam TIGR02101; Based on the effectors IpaC from Shigella flexneri and SipC from Salmonella Typhimurium.
-Efam00161	YopR; Type III effector protein	TIGRfam TIGR02509; YopR like effector found in Yersinia species
-Efam00162	SipD/IpaD/SspD; Type III effector protein	TIGRfam TIGR02553; Based on the effectors SipD, IpaD and SspD found in Shigella and Salmonella 
-Efam00163	LcrG/PcrG; Type III effector protein	TIGRfam TIGR02573; LcrG/PcrG like protein
-Efam00164	EspL1; Type III effector protein	EspL1 like effector protein found in EPEC. Possible substrate of the ETT2 encoded T3SS
-Efam00165	EspL3; Type III effector protein	EspL3 like effector protein found in EPEC. Possible substrate of the ETT2 encoded T3SS
-Efam00166	EspL4; Type III effector protein	EspL4 like effector protein found in EPEC. Possible substrate of the ETT2 encoded T3SS
-Efam00167	EspR1; Type III effector protein	EspR1 like effector protein found in EPEC. Possible substrate of the ETT2 encoded T3SS
-Efam00168	EspR2; Type III effector protein	EspR2 like effector protein found in EPEC. Possible substrate of the ETT2 encoded T3SS
-Efam00169	EspX2; Type III effector protein	EspX2 like effector protein found in EPEC. Possible substrate of the ETT2 encoded T3SS
-Efam00170	EspX3; Type III effector protein	EspX3 like effector protein found in EPEC. Possible substrate of the ETT2 encoded T3SS
-Efam00171	EspX4; Type III effector protein	EspX4 like effector protein found in EPEC. Possible substrate of the ETT2 encoded T3SS
-Efam00172	EspX5; Type III effector protein	EspX5 like effector protein found in EPEC. Possible substrate of the ETT2 encoded T3SS
-Efam00173	EspX6; Type III effector protein	EspX6 like effector protein found in EPEC. Possible substrate of the ETT2 encoded T3SS
-Efam00174	EspY2; Type III effector protein	EspY2 like effector protein found in EPEC. Possible substrate of the ETT2 encoded T3SS
-Efam00175	EspY3; Type III effector protein	EspY3 like effector protein found in EPEC. Possible substrate of the ETT2 encoded T3SS
-Efam00176	EspY4; Type III effector protein	EspY4 like effector protein found in EPEC. Possible substrate of the ETT2 encoded T3SS
-Efam00177	EspY5; Type III effector protein	EspY5 like effector protein found in EPEC. Possible substrate of the ETT2 encoded T3SS
-Efam00178	SopE; Type III effector protein	Pfam PF07487; SopE like effector found in Salmonella
-Efam00179	ExoY; Type III effector protein	ExoY like effector protein found in P. aeruginosa
-Efam00180	ExoS; Type III effector protein	ExoS like effector protein found in P. aeruginosa
-Efam00181	BopN; Type III effector protein	BopN like effector protein found in Bordetella
-Efam00182	BopB; Type III effector protein	BopB like effector protein found in Bordetella; forms the pore complex in host membrane
-Efam00183	BopC; Type III effector protein	BopC like effector protein found in Burkholderia and Bordetella
-Efam00184	BopD; Type III effector protein	BopD like effector protein found in Bordetella; forms the pore complex in host membrane
-Efam00185	BopE; Type III effector protein	BopE like effector protein found in Burkholderia; imfluence bacterial invasion
-Efam00186	SseC; Type III effector protein	Pfam PF04888; SseC like effector found in Salmonella
+Efam00001	GogB Type 3 effector protein	GogB like effector protein found in Salmonella	497	6	71.4	24
+Efam00002	OspD2 Type 3 effector protein	OspD2 like effector protein found in Shigella flexneri	569	7	100.4	23.8
+Efam00003	OspD1 Type 3 effector protein	OspD1 like effector protein found in Shigella flexneri	225	7	92.2	24.9
+Efam00004	OspD3 Type 3 effector protein	OspD3 like effector protein found in Shigella flexneri. Called EspL2 in EPEC	565	10	114.1	23.1
+Efam00005	OspE Type 3 effector protein	OspE like effector protein found in Shigella flexneri	88	5	203.7	32.1
+Efam00006	SopA Type 3 effector protein	SopA like effector protein found in Salmonella. Homologs in EPEC are called NleL. Functions as E3 ligase to regulate host inflammatory response	782	21	885.4	23
+Efam00007	PopA Type 3 effector protein	PopA like effector found in Ralstonia solanacearum	335	13	417.9	22.6
+Efam00008	Rip15 Type 3 effector protein	Ralstonia solanacerum Rip (Ralstonia protein injected into plant cell) effector	754	10	56.4	19.1
+Efam00009	Rip1 Type 3 effector protein	Ralstonia solanacerum Rip (Ralstonia protein injected into plant cell) effector	430	8	223.4	35.9
+Efam00010	Rip55 Type 3 effector protein	Ralstonia solanacerum Rip (Ralstonia protein injected into plant cell) effector	416	11	221.1	25.6
+Efam00011	RipB Type 3 effector protein	Ralstonia solanacerum Rip (Ralstonia protein injected into plant cell) effector	489	12	286.8	20.4
+Efam00012	Rip30 Type 3 effector protein	Ralstonia solanacerum Rip (Ralstonia protein injected into plant cell) effector	1385	7	167.1	23.1
+Efam00013	Rip68 Type 3 effector protein	Ralstonia solanacerum Rip (Ralstonia protein injected into plant cell) effector	274	6	20.9	22.6
+Efam00014	PopB Type 3 effector protein	PopB like effector found in Ralstonia solanacerum	175	13	334.2	20.6
+Efam00015	EspJ Type 3 effector protein	EspJ like effector protein found in Citrobacter rodentium. It has an antiphagocytic activity	217	9	245	23.9
+Efam00016	HopR1 Type 3 effector protein	HopR1 like effector protein found in Pseudomonas syringae	1910	11	45.4	45.4
+Efam00017	HopO1 Type 3 effector protein	HopO1 like effector protein found in Pseudomonas syringae	209	14	41.4	25
+Efam00018	Bap22 Type 3 effector protein	Bsp22 like secreted protein found in Bordetella bronchiseptica	239	4	40.3	20.9
+Efam00019	PthA Type 3 effector protein	PthA like effector protein found in Ralstonia solanacerum	1244	4	168.4	21.8
+Efam00020	Rip3: Type 3 effector protein	Based on an effector protein found in Ralstonia solanacerum	912	10	585.9	23.7
+Efam00021	Tir Type 3 effector protein	Translocated intmin receptor (Tir) found in E. coli. Triggers actin pedestral formation	547	42	94.7	18
+Efam00022	AvrPphD Type 3 effector protein	AvrPphD like effector protein found in Pseudomonase syringae	705	5	127.7	18.4
+Efam00023	AvrPphE Type 3 effector protein	AvrPphE effector family found Ralstonia solanacearum	425	6	96.4	24.2
+Efam00024	HopAB1 Type 3 effector protein	AvrPtoB/HopAB1 effector family	519	8	66.5	23.8
+Efam00025	AvrRpt2 Type 3 effector protein	AvrRpt2 like effector protein found in Pseudomonas syringae	255	4	40.1	22.7
+Efam00026	BopA Type 3 effector protein	BopA like effector protein found in Burkholderia pseudomallei assists with evading autophagy	512	20	66.9	23.3
+Efam00027	Cif Type 3 effector protein	Cell cycle inhibiting factor (Cif) an effector found in EPEC and EHEC strains	282	7	355	17.3
+Efam00028	Rip4 Type 3 effector protein	Ralstonia solanacerum Rip (Ralstonia protein injected into plant cell) effector	643	2	177.1	24.3
+Efam00029	EspH Type 3 effector protein	EspH like effector protein. LEE assoicated effector found in E. coli	171	13	321.1	20.5
+Efam00030	EspO Type 3 effector protein	EspO like effector protein found in EPEC and Citrobacter	91	4	124	16.6
+Efam00031	EspT Type 3 effector protein	EspT like effector protein found in EPEC and Citrobacter. Triggers actin modulation and induces membrane ruffling	183	5	395.9	25.3
+Efam00032	EspV Type 3 effector protein	EspV like effector protein found in EPEC. Induces morphological changes in mammalian cells	402	7	78.8	16.9
+Efam00033	EspX Type 3 effector protein	EspX like effector protein found in EPEC	473	27	71.8	23.8
+Efam00034	HapG Type 3 effector protein	HapG like effector protein found in Xanthomonas species	133	3	112.3	25.5
+Efam00035	HopAH Type 3 effector protein	HopAH like effector protein found in Pesudomonas syringae	422	3	56.5	23.1
+Efam00036	HopAI Type 3 effector protein	HopAI like effector protein found in Pesudomonas syringae. A Phosphothreonine lyase	267	9	216	19.6
+Efam00037	HopB1 Type 3 effector protein	HopB1 like effector protein found in Pseudomonas syringae	376	5	104.2	22.8
+Efam00038	HopI1 Type 3 effector protein	HopI1 like protein found Pseudomonas syringae	488	3	150.4	24.9
+Efam00039	HopAA1-2 Type 3 effector protein	HopAA1-2 like effector protein found in Pseudomonas syringae	486	15	133.9	20.2
+Efam00040	IcsB Type 3 effector protein	IcsB like virulence protein found in Shigella flexneri	494	7	172.3	23.6
+Efam00041	Gala6 Type 3 effector protein	Leucine-rich repeat protein found in Ralstonia solanacearum	619	8	88.8	27.2
+Efam00042	Map Type 3 effector protein	Map like effector protein found in EPEC and Citrobacter. It manipulates the actin cytroskeleton	203	10	315.5	23.4
+Efam00043	MxiL Type 3 effector protein	MxiL like protein found in Shigella flexneri	135	4	299.1	20.7
+Efam00044	NleA Type 3 effector protein	Non-LEE-encoding A (NleA) effector found in EPEC and Citrobacter rodentium	440	21	90.3	15.8
+Efam00045	NleC Type 3 effector protein	Non-LEE-encoding C (NleC) effector found in EPEC and Citrobacter rodentium	330	5	86.7	18.2
+Efam00046	NleE Type 3 effector protein	Non-LEE-encoding E (NleE) effector found in EPEC and Citrobacter rodentium	224	7	55.5	17.2
+Efam00047	NleH Type 3 effector protein	Non-LEE-encoding H (NleH) effector found in EPEC and Citrobacter rodentium	293	12	234.7	24.1
+Efam00048	Nop Type 3 effector protein	NopP like effector protein found in Sinorhizobium fredii	271	3	126.8	18.8
+Efam00049	PopC Type 3 effector protein	PopC like effector protein found in Xanthomonas oryzae	656	5	120.4	75.2
+Efam00050	HopAV1 Type 3 effector protein	Ralstonia solanacerum Rip (Ralstonia protein injected into plant cell) effector	826	6	325.2	18.8
+Efam00051	Rip57 Type 3 effector protein	Ralstonia solanacerum Rip (Ralstonia protein injected into plant cell) effector	1482	4	370	20.4
+Efam00052	Rip51 Type 3 effector protein	Ralstonia solanacerum Rip (Ralstonia protein injected into plant cell) effector	698	5	153.1	16.8
+Efam00053	Rip23 Type 3 effector protein	Ralstonia solanacerum Rip (Ralstonia protein injected into plant cell) effector	809	3	53.1	17.3
+Efam00054	SseI Type 3 effector protein	SseI like effector protein found in Salmonella	322	5	121.7	24.7
+Efam00055	SseJ Type 3 effector protein	SseJ like effector protein found in Salmonella	408	20	738.4	24.3
+Efam00056	YopQ Type 3 effector protein	YopQ like effector protein found in Yersinia	182	6	421.4	26.9
+Efam00057	YopT Type 3 effector protein	YopT like effector protein found in Yersinia pestis. Cleaves host cell Rho GTPases from the membrane, thereby disrupting the actin cytroskeleton.	322	7	151	23.5
+Efam00058	SteA Type 3 effector protein	SteA like effector protein found Salmonella	210	31	461.4	19.8
+Efam00059	HpaX Type 3 effector protein	Based on an effector protein (hpaX) found in Ralstonia solanacerum	498	4	481.1	19.9
+Efam00060	Rip58 Type 3 effector protein	Ralstonia solanacerum Rip (Ralstonia protein injected into plant cell) effector	476	7	776.2	22.2
+Efam00061	HopAK1 Type 3 effector protein	HopAK1 like protein found in Pseudomonas syringae	541	11	464.1	24.3
+Efam00062	HopPtoI Type 3 effector protein	HopPtoI like effector protein	632	3	77.3	19.2
+Efam00063	Rip6 Type 3 effector protein	Based on an effector protein found in Ralstonia solanacerum	98	4	205.2	22.9
+Efam00064	NopA Type 3 effector protein	NopA like effector protein found in Rhizobium species	71	3	59.7	18.6
+Efam00065	RimL Type 3 effector protein	Based on an effector protein found in Burkholderia pseudomallei	165	6	62.1	25.1
+Efam00066	YopO Type 3 effector protein	YopO like effector protein fround in Yersinia enterocolitica	729	9	129.2	23.8
+Efam00067	AvrPpiA Type 3 effector protein	AvrPpiA like effector protein found in Pesudomonas syringae. Has a phosphorylation activity	220	3	76.7	18.8
+Efam00068	EspN Type 3 effector protein	EspN like effector protein found in EPEC and Citrobacter	1133	3	112.7	20.2
+Efam00069	OspB Type 3 effector protein	EspS/OspB like effector protein found in EPEC and Citrobacter	291	9	79	20.8
+Efam00070	EspY Type 3 effector protein	EspY like effector protein found in EPEC	245	5	67.2	24.1
+Efam00071	HopE1 Type 3 effector protein	HopE1 like effector protein found in Pseudomonas syringae	211	4	192.3	32.9
+Efam00072	HopPmaA Type 3 effector protein	HopPmaA like effector protein found in Pseudomonas syringae	774	4	89.6	16.2
+Efam00073	HopY1 Type 3 effector protein	HopY1 like effector protein found in Pseudomonas syringae	287	4	192.7	18.1
+Efam00074	NleD Type 3 effector protein	Non-LEE-encoding D (NleD) effector found in EPEC and Citrobacter rodentium	232	6	357.7	24.8
+Efam00075	NleF Type 3 effector protein	Non-LEE-encoding F (NleF) effector found in EPEC and Citrobacter rodentium	189	5	108.9	24.8
+Efam00076	PipB Type 3 effector protein	PipB/PipB2 like effector protein found in Salmonella. Recruitment of Kinesin-1 to the membrane of Salmonella-containing vacuoles	350	15	366.9	24.5
+Efam00077	Rip16 Type 3 effector protein	Based on an effector protein found in Ralstonia solanacerum	589	4	42.2	17.8
+Efam00078	Rip67 Type 3 effector protein	Based on an effector protein found in Ralstonia solanacerum	878	3	60	17.6
+Efam00079	SrfA Putative type 3 effector protein	SrfA like virulence protein found in Erwinia carotovora	440	23	125.1	25.1
+Efam00080	SseL Type 3 effector protein	SseL like effector protein found in Salmonella. This effector is vital for Salmonella pathogenesis 	340	32	201.4	21.8
+Efam00081	Y4yB Type 3 effector protein	Based on the y4yB family of effectors found in Sinorhizobium fredii	142	5	68.1	25.3
+Efam00082	SsaB Type 3 effector protein	ssaB like effector protein found in Salmonella	133	7	79	21.9
+Efam00083	Rip5 Type 3 effector protein	AvrA like effector protein fround in Ralstonia solanacearum	267	10	405.5	19.2
+Efam00084	HopGI Type 3 effector protein	HopGI family of effectors found in Ralstonia species, Xanthomonas species, Pseudomonas syringae	495	29	224.3	17.9
+Efam00085	EspF Type 3 effector protein	EspF like effector protein found in EPEC and Citrobacter. A multifunctional effector that can induce host cell apoptosis	254	4	67.4	21.8
+Efam00086	HopAN1 Type 3 effector protein	HopAN1 like effector protein found in Pseudomonas syringae	429	19	360.1	23.5
+Efam00087	HsvB Type 3 effector protein	Based on a protein from Pseudomonas syringae	415	15	252.2	24.1
+Efam00088	HopAF1 Type 3 effector protein	HopAF1 like effector protein found in Pseudomonas syringae	284	6	183.5	20.2
+Efam00089	HopX1 Type 3 effector protein	HopX1 like effector protein found in Pseudomonas syringae	380	14	102.1	23.5
+Efam00090	NleB Type 3 effector protein	Non-LEE-encoding B (NleB) effector found in EPEC and Citrobacter rodentium. Members of this family are found in Salmonella	329	11	485	60
+Efam00091	SifA/B Type 3 effector protein	sifA/B like effector protein found in Salmonella. Required for maintenance of the vacuolar membrane that surounds replicating bacteria	336	30	94.9	24.1
+Efam00092	IpaH/SspH2/YopM Type 3 effector protein	E3 Ubiquitin ligase mimics. Known has SspH2 in Salmonella and YopM in Yersinia.	755	36	150.2	23.5
+Efam00093	SptP Type 3 effector protein	sptP like effector protein found in Salmonella. Inhibits MAP kinase activation	535	27	101.9	23.9
+Efam00094	SseE Type 3 effector protein	SseE like effector protein found in Salmonella	138	8	104.2	25.2
+Efam00095	OspC1 Type 3 effector protein	OspC1 like effector protein found in Shigella flexneri	470	9	119.6	24.1
+Efam00096	OspC2 Type 3 effector protein	OspC2 like effector protein found in Shigella flexneri	484	9	79.2	21.4
+Efam00097	YopH Type 3 effector protein	YopH like effector protein fround in Yersinia species	468	7	104.8	24.3
+Efam00098	EspM Type 3 effector protein	EspM like effector protein found in EPEC and Citrobacter.	196	21	66.9	24.7
+Efam00099	HopAG1 Type 3 effector protein	HopAG1 like effector protein found in Pseudomonas syringae	715	7	76.1	23.5
+Efam00100	HopAM Type 3 effector protein	HopAM like effector protein found in Pseudomonas syringae	272	3	200.9	20
+Efam00101	HopA1 Type 3 effector protein	HopA1 like effector protein found in Pseudomonas syringae	382	10	56.5	23.4
+Efam00102	HopT1-1 Type 3 effector protein	HopT1-1 like effector protein found in Pseudomonas syringae	379	5	99.9	23.4
+Efam00103	HopT1-2 Type 3 effector protein	HopT1-2 like effector protein found in Pseudomonas syringae	389	2	127.7	24.9
+Efam00104	PopP1 Type 3 effector protein	Based on an effector protein found in Ralstonia solanacerum	368	5	100	16.8
+Efam00105	NolX1 Type 3 effector protein	NolX1 like protein found in Sinorhizobium fredii	596	4	209.1	22.7
+Efam00106	NolX2 Type 3 effector protein	NolX2 like protein found in Bradyrhizobium species	603	3	219.1	17.1
+Efam00107	SopD Type 3 effector protein	SopD like effector protein found in Salmonella. Promote survival in marcophages 	360	12	48.5	24.5
+Efam00108	SopD2 Type 3 effector protein	SopD2 like effector protein found in Salmonella. Promotes survival in marcophages	317	9	83.2	24.2
+Efam00109	HrpN1 Type 3 effector protein	HrpN like effector protein fround in Erwinia amlovora	343	7	165.6	21.2
+Efam00110	HrpN2 Type 3 effector protein	HrpN like homolog found in Dickeya dadantii	342	2	170.5	22.3
+Efam00111	SseF Type 3 effector protein	SseF like protein found in Salmonella. Induces filament formation	260	26	94	24.7
+Efam00112	SseG Type 3 effector protein	SseG like effector protein found in Salmonella.	229	17	239.9	24.5
+Efam00113	ExoU1 Type 3 effector protein	ExoU protein found in Pseudomonas aeruginosa	304	14	57.3	24.7
+Efam00114	ExoU2 Type 3 effector protein	ExoU2 homolog effector protein found in Pseudomonas syringae	637	13	381	24
+Efam00115	HrpZ Type 3 effector protein	HrpZ like effector protein found in Pseudomonas syringae	342	44	161.5	24.9
+Efam00116	AexT Type 3 effector protein	aexT like effector protein found in Aeromonans salmonicida	475	2	76.3	22
+Efam00117	ExoT Type 3 effector protein	ExoT like effector protein found in Pseudomonas aeruginosa	457	7	24.7	18.7
+Efam00118	HopM1 Type 3 effector protein	HopM1 like effector protein found in Pseudomonas syringae	744	19	86.3	17.5
+Efam00119	SteB Type 3 effector protein	SteB like effector protein found in Salmonella	133	7	109.2	22.5
+Efam00120	HopAA Type 3 effector protein	HopAA like effector protein found in Pseudomonas syringae	486	13	130	21.7
+Efam00121	NopL Type 3 effector protein	NopL like protein found in Sinorhizobium fredii	338	2	59.3	23.5
+Efam00122	AvrRps4 Type 3 effector protein	AvrRps4 like effector protein found in Pseudomonas syringae	221	2	52.7	23.3
+Efam00123	HopI1 Type 3 effector protein	HopI1 like effector protein found in Pseudomonas syringae	450	4	78.8	25.1
+Efam00124	Rip12 Type 3 effector protein	Ralstonia solanacerum Rip (Ralstonia protein injected into plant cell) effector	684	10	78.6	24.5
+Efam00125	SseK Type 3 effector protein	SseK effector protein found in Salmonella. Similar to NleB protein from E.coli	335	9	313.2	17.6
+Efam00126	Pfam PF05394 Type 3 effector protein	Pfam PF05394 consists of avirulence proteins from Pseudomonas syringae and Xanthomonas campestris	326	6	21.8	18.6
+Efam00127	Pfam PF11725 Type 3 effector protein	Pfam PF11725 family of effectors secreted by plant pathogens such as Pseudomonase syringae 	1774	9	19.8	17.8
+Efam00128	Pfam PF11592 AvrPto Type 3 effector protein	Pfam PF11592 family of proteins represents the effector AvrPto from Pseudomonas syringae. Interacts with host Pto kinase	105	2	24.1	20.4
+Efam00129	Pfam PF05785 CNF Type 3 effector protein	Pfam PF05785 family of cytotoxic necotising factor 	281	10	138.1	17.1
+Efam00130	Pfam PF06416 NleG Type 3 effector protein	Pfam PF06416 domain of unknown function found in non-LEE-encoding effector (NleG) found in EHEC and EPEC 	113	12	25.5	22.2
+Efam00131	Pfam PF03433 EspA Type 3 effector protein	Pfam PF03433 EspA-like effector protein. Is essential for attaching and effacing lesion formation	188	7	22.8	21.8
+Efam00132	Pfam PF05802 EspB Type 3 effector protein	Pfam PF05802 EspB like effector protein found in EPEC and Citrobacter. Pore forming protein	317	3	20.5	20
+Efam00133	Pfam PF06872 EspG Type 3 effector protein	Pfam PF06872 EspG like effector protein from Citrobacter rodentium and EPEC	383	4	69.1	21.1
+Efam00134	Pfam PF08888 HopJ Type 3 effector protein	Pfam PF08888 HopJ effector protein found in Pseudomonas syringae	111	40	21.5	20.9
+Efam00135	Pfam PF09502 HrpB4 Type 3 effector protein	Pfam PF09502 HrpB4 like effector protein found in Xanthomonas, Burkholderia and Ralstonia species	217	8	21.8	21.4
+Efam00136	Pfam PF05925 SopB Type 3 effector protein	Pfam PF05925 family of IpgD-like effector found in Shigella flexneri known as SopB in Salmonella	559	2	21.1	20
+Efam00137	Pfam PF10139 SrfC Putative type 3 effector protein	Pfam PF10139 Unknown effector protein family	854	14	121.1	18.1
+Efam00138	Pfam PF03536 Type 3 effector protein	Pfam PF03536	240	3	57	18.5
+Efam00139	Pfam PF05844 YopD Type 3 effector protein	Pfam PF05844 YopD like effector protein found in Yersinia species	298	8	27.2	21.6
+Efam00140	Pfam PF09020 YopE Type 3 effector protein	Pfam PF09020 YopE like effector protein	126	2	24.2	20.7
+Efam00141	Pfam PF03421 YopJ Type 3 effector protein	Pfam PF03421 YopJ like effector found in Yersinia	178	17	20.4	18
+Efam00142	Pfam PF09052 SipA Type 3 effector protein	Pfam PF09052 SipA-like effector found in Salmonella. Involved host cytoskeletal rearrangements by actin binding/stabilising activity	674	3	50.8	17.5
+Efam00143	FIGfam FIG004700 Putative type 3 effector protein	FIGfam FIG004700 SrfB like protein	995	26	125.1	19.2
+Efam00144	FIGfam FIG010722 Type 3 effector protein	FIGfam FIG010722 Based on effector protein found in Burkholderia pseudomallei	254	14	99.3	23.4
+Efam00145	FIGfam FIG01386 SepC Type 3 effector protein	FIGfam FIG013486 SepC like effector from Burkholderia pseudomallei	371	13	95.8	18.7
+Efam00146	FIGfam FIG015765 BapA Type 3 effector protein	FIGfam FIG015765 BapA like effector from Burkholderia pseudomellei	886	10	190	22.3
+Efam00147	FIGfam FIG024165 Type 3 effector protein	FIGfam FIG024165 Based on effector protein found in Burkholderia pseudomallei	215	7	183	17.1
+Efam00148	FIGfam FIG028317 SteA Type 3 effector protein	FIGfam FIG028317 SteA like effector fround in Salmonella	210	6	75.3	19.9
+Efam00149	FIGfam FIG030627 SteC Type 3 effector protein	FIGfam FIG030627 SteC like effector fround in Salmonella	457	5	97	19.2
+Efam00150	FIGfam FIG033101 Type 3 effector protein	FIGfam FIG033101 Avirulence effector protein found in Xanthomonas species	714	5	100	22.3
+Efam00151	FIGfam FIG034210 EspS Type 3 effector protein	FIGfam FIG034210 EspS like effector found in Citrobactor rodentium	288	3	81.9	18.9
+Efam00152	FIGfam FIG040233 IncB Type 3 effector protein	FIGfam FIG040233 IncB like protein fround in Chlamydophila pneumoniae	176	3	61.6	17.4
+Efam00153	FIGfam FIG043304 IncA Type 3 effector protein	FIGfam FIG043304 IncA	390	3	100	21.1
+Efam00154	FIGfam FIG048320 IncC Type 3 effector protein	FIGfam FIG048320 IncC	203	3	39.4	18.2
+Efam00155	FIGfam FIG052026 HrpW Type 3 effector protein	FIGfam FIG052026 HrpW like effector found in Erwinia species	422	3	165.7	22.1
+Efam00156	FIGfam FIG065772 Type 3 effector protein	FIGfam FIG065772 T3SS effector protein D found in Edwardsiella and Bordetella	313	3	60	16.6
+Efam00157	FIGfam FIG073160 SepZ Type 3 effector protein	FIGfam FIG073160 SepZ protein	99	2	95.3	20.8
+Efam00158	FIGfam FIG085646 Type 3 effector protein	FIGfam FIG085646 family of avirulence effectors found in Xanthomonas	623	2	50.9	23.1
+Efam00159	FIGfam FIG101139 AvrA Type 3 effector protein	FIGfam FIG101139 AvrA like effector from Pseudomonas syringae	445	2	40.2	21.2
+Efam00160	TIGRfam TIGR02101 IpaC/SipC Type 3 effector protein	TIGRfam TIGR02101 Based on the effectors IpaC from Shigella flexneri and SipC from Salmonella Typhimurium.	314	5	130.75	95.1
+Efam00161	TIGRfam TIGR02509 YopR Type 3 effector protein	TIGRfam TIGR02509 YopR like effector found in Yersinia species	131	5	114	55.25
+Efam00162	TIGRfam TIGR02553 SipD/IpaD/SspD Type 3 effector protein	TIGRfam TIGR02553 Based on the effectors SipD, IpaD and SspD found in Shigella and Salmonella 	317	3	219.25	75.9
+Efam00163	TIGRfam TIGR02573 LcrG/PcrG Type 3 effector protein	TIGRfam TIGR02573 LcrG/PcrG like protein	90		90.8	51.4
+Efam00164	EspL1 Type 3 effector protein	EspL1 like effector protein found in EPEC. Possible substrate of the ETT2 encoded T3SS	632	15	51.8	21.8
+Efam00165	EspL3 Type 3 effector protein	EspL3 like effector protein found in EPEC. Possible substrate of the ETT2 encoded T3SS	723	9	61.5	24
+Efam00166	EspL4 Type 3 effector protein	EspL4 like effector protein found in EPEC. Possible substrate of the ETT2 encoded T3SS	728	23	100.3	23.2
+Efam00167	EspR1 Type 3 effector protein	EspR1 like effector protein found in EPEC. Possible substrate of the ETT2 encoded T3SS	418	16	100.7	24.2
+Efam00168	EspR2 Type 3 effector protein	EspR2 like effector protein found in EPEC. Possible substrate of the ETT2 encoded T3SS	379	18	115.7	24.4
+Efam00169	EspX2 Type 3 effector protein	EspX2 like effector protein found in EPEC. Possible substrate of the ETT2 encoded T3SS	670	14	87.8	12.7
+Efam00170	EspX3 Type 3 effector protein	EspX3 like effector protein found in EPEC. Possible substrate of the ETT2 encoded T3SS	395	15	97	24.7
+Efam00171	EspX4 Type 3 effector protein	EspX4 like effector protein found in EPEC. Possible substrate of the ETT2 encoded T3SS	526	19	106.5	24.3
+Efam00172	EspX5 Type 3 effector protein	EspX5 like effector protein found in EPEC. Possible substrate of the ETT2 encoded T3SS	430	23	114	24.9
+Efam00173	EspX6 Type 3 effector protein	EspX6 like effector protein found in EPEC. Possible substrate of the ETT2 encoded T3SS	727	17	100	23.9
+Efam00174	EspY2 Type 3 effector protein	EspY2 like effector protein found in EPEC. Possible substrate of the ETT2 encoded T3SS	189	8	83.2	18.8
+Efam00175	EspY3 Type 3 effector protein	EspY3 like effector protein found in EPEC. Possible substrate of the ETT2 encoded T3SS	523	13	79.2	24.2
+Efam00176	EspY4 Type 3 effector protein	EspY4 like effector protein found in EPEC. Possible substrate of the ETT2 encoded T3SS	802	13	124.4	18.2
+Efam00177	EspY5 Type 3 effector protein	EspY5 like effector protein found in EPEC. Possible substrate of the ETT2 encoded T3SS	794	10	101	20.9
+Efam00178	Pfam PF07487 SopE Type 3 effector protein	Pfam PF07487 SopE like effector found in Salmonella	165	2	20.8	18.7
+Efam00179	ExoY Type 3 effector protein	ExoY like effector protein found in P. aeruginosa	378	9	85.2	21.2
+Efam00180	ExoS Type 3 effector protein	ExoS like effector protein found in P. aeruginosa	453	10	277.6	23.2
+Efam00181	BopN Type 3 effector protein	BopN like effector protein found in Bordetella	365	4	105.5	24.3
+Efam00182	BopB Type 3 effector protein	BopB like effector protein found in Bordetella forms the pore complex in host membrane	400	5	57	23.5
+Efam00183	BopC Type 3 effector protein	BopC like effector protein found in Burkholderia and Bordetella	147	3	154	24.2
+Efam00184	BopD Type 3 effector protein	BopD like effector protein found in Bordetella forms the pore complex in host membrane	313	4	55.3	23.1
+Efam00185	BopE Type 3 effector protein	BopE like effector protein found in Burkholderia imfluence bacterial invasion	261	9	582	21.7
+Efam00186	Pfam PF04888 SseC Type 3 effector protein	Pfam PF04888 SseC like effector found in Salmonella	306	35	29	28
