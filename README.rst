@@ -35,4 +35,4 @@ Basic install instructions (on a LAMP Ubuntu 12.04.2 LTS box)::
 Official live site
 ------------------
 
-Please see: http://effectorfam-scmb.biosci.uq.edu.au
+Please see: https://effectorfam.beatsonlab.com/
