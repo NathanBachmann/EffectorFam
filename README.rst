@@ -30,9 +30,9 @@ Basic install instructions (on a LAMP Ubuntu 12.04.2 LTS box)::
     $ #Updating the variables on lines 55 and 56 respectively (to current site)
     $ sudo apt-get install hmmer
     $ sudo service apache2 restart
-    $ Browse over to: To be updated
+    $ Browse over to: https://effectorfam.beatsonlab.com/
 
 Official live site
 ------------------
 
-Please see: To be updated
+Please see: https://effectorfam.beatsonlab.com/
